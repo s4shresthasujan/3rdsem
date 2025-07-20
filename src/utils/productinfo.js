@@ -1,7 +1,8 @@
 const cartItems = [
   {
     id: 1,
-    name: "Premium Leather Backpack",
+    // name: "Premium Leather Backpack",
+    name: "rack",
     description: "Brown / Large",
     price: 129.99,
     quantity: 1,
@@ -10,7 +11,8 @@ const cartItems = [
   },
   {
     id: 2,
-    name: "Wireless Earbuds Pro",
+    // name: "Wireless Earbuds Pro",
+    name: "rack",
     description: "White",
     price: 199.99,
     quantity: 1,
@@ -19,7 +21,8 @@ const cartItems = [
   },
   {
     id: 3,
-    name: "Smart Watch Series 5",
+    // name: "Smart Watch Series 5",
+    name: "rack",
     description: "Space Gray / 44mm",
     price: 299.99,
     quantity: 1,
@@ -28,7 +31,8 @@ const cartItems = [
   },
   {
     id: 4,
-    name: "Gaming Mechanical Keyboard",
+    // name: "Gaming Mechanical Keyboard",
+    name: "rack",
     description: "RGB Backlit / Blue Switch",
     price: 89.99,
     quantity: 1,
@@ -36,7 +40,8 @@ const cartItems = [
   },
   {
     id: 5,
-    name: "4K Ultra HD Monitor",
+    // name: "4K Ultra HD Monitor",
+    name: "rack",
     description: "27-inch / 144Hz",
     price: 399.99,
     quantity: 1,
@@ -44,7 +49,8 @@ const cartItems = [
   },
   {
     id: 6,
-    name: "Noise Cancelling Headphones",
+    // name: "Noise Cancelling Headphones",
+    name: "rack",
     description: "Black / Over-ear",
     price: 249.99,
     quantity: 1,
@@ -52,7 +58,8 @@ const cartItems = [
   },
   {
     id: 7,
-    name: "Portable Bluetooth Speaker",
+    // name: "Portable Bluetooth Speaker",
+    name: "rack",
     description: "Waterproof / Blue",
     price: 59.99,
     quantity: 1,
@@ -60,7 +67,8 @@ const cartItems = [
   },
   {
     id: 8,
-    name: "Wireless Charging Pad",
+    // name: "Wireless Charging Pad",
+    name: "rack",
     description: "Fast Charge / 10W",
     price: 29.99,
     quantity: 1,
@@ -68,7 +76,8 @@ const cartItems = [
   },
   {
     id: 9,
-    name: "Ergonomic Office Chair",
+    // name: "Ergonomic Office Chair",
+    name: "rack",
     description: "Black Mesh / Adjustable",
     price: 179.99,
     quantity: 1,
@@ -76,11 +85,12 @@ const cartItems = [
   },
   {
     id: 10,
-    name: "Laptop Stand with Cooling Fan",
+    name: "Laptop Stand ",
     description: "Aluminum / Adjustable Height",
     price: 49.99,
     quantity: 1,
-    image: "https://m.media-amazon.com/images/I/71DW7TDbHgL._AC_SL1500_.jpg",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCX9kZwkd_UXRc6kpVYN6AA0eI_U90gEfLaQ&s",
   },
 ];
 
