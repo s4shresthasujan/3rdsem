@@ -1,6 +1,6 @@
 import { useState } from "react";
-import NavBar from "../components/NavBarForSearchResultPage";
-import ProductGrid from "../components/ProductGrid";
+import Navbar from './Navbar'
+import ProductGrid from "./ProductGrid";
 
 function SearchResutlPage() {
   const [filteredProducts, setFilteredProducts] = useState([]);
