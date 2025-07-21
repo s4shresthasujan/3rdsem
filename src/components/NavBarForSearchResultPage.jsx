@@ -22,7 +22,6 @@ function NavBar({ onSearchResults }) {
       setSearchResultCount(results.length);
       setSubmittedValue(inputValue);
 
-      // ✅ Send filtered results to parent component
       onSearchResults(results);
     }
   }
